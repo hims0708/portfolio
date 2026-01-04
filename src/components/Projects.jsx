@@ -7,21 +7,21 @@ function Projects() {
       tech: "React, APIs",
       desc: "News portal with lazy loading, reducing load time by 20%.",
       link: "https://my-news-app-blush.vercel.app/",
-      image: "/images/news-bg.png"
+      image: "images/news-bg.png"
     },
     {
       title: "Creative Pen",
       tech: "Next.js, SEO",
       desc: "Blog with SEO routing, increasing session duration by 35%.",
       link: "https://blog-pen-eight.vercel.app/",
-      image: "/images/blog-bg.png"
+      image: "images/blog-bg.png"
     },
     {
       title: "Portfolio Site",
       tech: "React, GitHub API",
       desc: "Personal portfolio showcasing projects and skills with a dynamic modern UI.",
       link: "https://github.com/hims0708/portfolio",
-      image: "/images/portfolio-bg.png"
+      image: "images/portfolio-bg.png"
     }
   ];
 
