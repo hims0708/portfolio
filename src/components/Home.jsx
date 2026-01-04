@@ -15,11 +15,11 @@ function Home() {
         <p>Specialized in React, Next.js, and Enterprise Integrations.</p>
 
         <div className="btn-group">
-          <a href="/resume.pdf" download className="btn">
+          <a href="resume.pdf" download className="btn">
             Download Resume
           </a>
           <a
-            href="/resume.pdf"
+            href="resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="btn outline"
@@ -30,7 +30,7 @@ function Home() {
       </div>
 
       <div className="home-image">
-        <img src="/profile.png" alt="Hims Raghuvanshi" />
+        <img src="profile.png" alt="Hims Raghuvanshi" />
       </div>
     </motion.section>
   );

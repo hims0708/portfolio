@@ -9,7 +9,7 @@ function Resume() {
     >
       <h2>Resume</h2>
       <a
-        href="/resume.pdf"
+        href="resume.pdf"
         target="_blank"
         rel="noreferrer"
         className="btn"
